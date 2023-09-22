@@ -8,6 +8,8 @@ Place the .ASI file in the games install path.
 
 ```%MGS2Path%\bin\scripts\mgs2_torture.asi```
 
+This is ***not*** for the Master Collection
+
 # Building
 
 The project was created in Visual Studio 2019 Community. You'll at the very least need to be able to build Dynamic-Link Library (DLL) projects using C++.
